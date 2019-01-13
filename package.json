@@ -3,7 +3,7 @@
   "name": "react-native-zalo",
   "title": "React Native Zalo",
   "version": "1.0.0",
-  "description": "",
+  "description": "Zalo SDK",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
